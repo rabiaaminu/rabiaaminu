@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rabiaaminu
 - 👀 I’m interested in ...website design 
 - 🌱 I’m currently learning ...full stack development
-- 💞️ I’m looking to collaborate on ...Web design
+- 💞️ I’m looking to collaborate on ...Web development
 - 📫 How to reach me ...08067331331
 
 <!---
